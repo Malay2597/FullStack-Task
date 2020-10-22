@@ -7,6 +7,17 @@
   </div>
 
   <div class="c-table-container">
+    <div class="c-search-bar">
+      <mat-form-field class="full-width">
+        <mat-label>Search</mat-label>
+        <input
+          matInput
+          [(ngModel)]="searchString"
+          (keyup)="applyFilter()"
+          #input
+        >
+      </mat-form-field>
+    </div>
     <table
       mat-table
       [dataSource]="userDataSource"

@@ -20,6 +20,7 @@ export class HomeComponent implements OnInit, OnDestroy {
   userDataSource: MatTableDataSource<object>;
   loading: boolean;
   isError: boolean;
+  searchString: string;
 
   pageProperties = {
     pageSize: 20,
@@ -58,6 +59,7 @@ export class HomeComponent implements OnInit, OnDestroy {
   }
 
   getPageDetails(event) {
+    this.searchString = '';
     if (this.isError) {
       this.paginator.disabled = true;
     } else {
@@ -82,6 +84,10 @@ export class HomeComponent implements OnInit, OnDestroy {
       horizontalPosition: 'center',
       verticalPosition: 'top',
     });
+  }
+
+  applyFilter() {
+    this.userDataSource.filter = this.searchString.trim().toLowerCase();
   }
 
   ngOnDestroy() {

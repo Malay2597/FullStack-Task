@@ -38,3 +38,13 @@ table {
 .mat-column-created {
   max-width: 124px;
 }
+
+.c-search-bar {
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 2%;
+}
+
+.full-width {
+  width: 100%;
+}
