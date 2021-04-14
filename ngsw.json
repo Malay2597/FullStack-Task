@@ -1,0 +1,107 @@
+{
+  "configVersion": 1,
+  "timestamp": 1618404976155,
+  "index": "https://malay2597.github.io/FullStack-Task/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://malay2597.github.io/FullStack-Task/1-es2015.ae35768b4a0276219bc5.js",
+        "https://malay2597.github.io/FullStack-Task/1-es5.ae35768b4a0276219bc5.js",
+        "https://malay2597.github.io/FullStack-Task/6-es2015.4a9134a7eec839916fe0.js",
+        "https://malay2597.github.io/FullStack-Task/6-es5.4a9134a7eec839916fe0.js",
+        "https://malay2597.github.io/FullStack-Task/7-es2015.02f577b5b29cc4d5cf84.js",
+        "https://malay2597.github.io/FullStack-Task/7-es5.02f577b5b29cc4d5cf84.js",
+        "https://malay2597.github.io/FullStack-Task/8-es2015.e5df86525e0ec47b3e7b.js",
+        "https://malay2597.github.io/FullStack-Task/8-es5.e5df86525e0ec47b3e7b.js",
+        "https://malay2597.github.io/FullStack-Task/favicon.ico",
+        "https://malay2597.github.io/FullStack-Task/index.html",
+        "https://malay2597.github.io/FullStack-Task/main-es2015.09ca018464fcc9a18585.js",
+        "https://malay2597.github.io/FullStack-Task/main-es5.09ca018464fcc9a18585.js",
+        "https://malay2597.github.io/FullStack-Task/manifest.webmanifest",
+        "https://malay2597.github.io/FullStack-Task/polyfills-es2015.b4a3bdae6bcd059f26dd.js",
+        "https://malay2597.github.io/FullStack-Task/polyfills-es5.8e16724e01f65bc4b968.js",
+        "https://malay2597.github.io/FullStack-Task/runtime-es2015.d1aeced4852f2b44fb54.js",
+        "https://malay2597.github.io/FullStack-Task/runtime-es5.d1aeced4852f2b44fb54.js",
+        "https://malay2597.github.io/FullStack-Task/styles.e8b2ef8f1d891acbc5a8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-128x128.png",
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-144x144.png",
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-152x152.png",
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-192x192.png",
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-384x384.png",
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-512x512.png",
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-72x72.png",
+        "https://malay2597.github.io/FullStack-Task/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "PageAPI",
+      "patterns": [
+        "https:\\/\\/malay-node\\.herokuapp\\.com\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 21600000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://malay2597.github.io/FullStack-Task/1-es2015.ae35768b4a0276219bc5.js": "7f9661e25f25564987a7313d2334b4443971e14e",
+    "https://malay2597.github.io/FullStack-Task/1-es5.ae35768b4a0276219bc5.js": "7f9661e25f25564987a7313d2334b4443971e14e",
+    "https://malay2597.github.io/FullStack-Task/6-es2015.4a9134a7eec839916fe0.js": "ed4f4f9229f4beefb16b91c6594203c64d727037",
+    "https://malay2597.github.io/FullStack-Task/6-es5.4a9134a7eec839916fe0.js": "558710575db56780f2669864ef55ee03860a1e10",
+    "https://malay2597.github.io/FullStack-Task/7-es2015.02f577b5b29cc4d5cf84.js": "c704efe7b0fbccfd82a116ea2c00ab5ee73bdac4",
+    "https://malay2597.github.io/FullStack-Task/7-es5.02f577b5b29cc4d5cf84.js": "3c6f9534efe6470d967fa54f7b338215062939e2",
+    "https://malay2597.github.io/FullStack-Task/8-es2015.e5df86525e0ec47b3e7b.js": "32f4d93cc4979bd1462c89efe90dae7409d91e2a",
+    "https://malay2597.github.io/FullStack-Task/8-es5.e5df86525e0ec47b3e7b.js": "483a3ff0f1e574cb15af1acf6193114e5efc3402",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://malay2597.github.io/FullStack-Task/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://malay2597.github.io/FullStack-Task/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://malay2597.github.io/FullStack-Task/index.html": "23915550cba22e0818f28dcd5d215e14ed838c7f",
+    "https://malay2597.github.io/FullStack-Task/main-es2015.09ca018464fcc9a18585.js": "ce00ae5262207b187ba4cd883e21ddaf0bdf2f31",
+    "https://malay2597.github.io/FullStack-Task/main-es5.09ca018464fcc9a18585.js": "d00de4d167f961a7fc88fd916809cec3b8b3c7c1",
+    "https://malay2597.github.io/FullStack-Task/manifest.webmanifest": "a1212d4306078e8cfa049071a0f69631a076bc65",
+    "https://malay2597.github.io/FullStack-Task/polyfills-es2015.b4a3bdae6bcd059f26dd.js": "695085348af3817c3037a9e26bd49d76aff1ec34",
+    "https://malay2597.github.io/FullStack-Task/polyfills-es5.8e16724e01f65bc4b968.js": "31e05956f017016babdcc2e16b1e79497acb8678",
+    "https://malay2597.github.io/FullStack-Task/runtime-es2015.d1aeced4852f2b44fb54.js": "e53320bc6159f9b29d48acbb0a2e45242c35137f",
+    "https://malay2597.github.io/FullStack-Task/runtime-es5.d1aeced4852f2b44fb54.js": "1963a8c56b8ec34964d0bbe3dc2f619ad4b0d156",
+    "https://malay2597.github.io/FullStack-Task/styles.e8b2ef8f1d891acbc5a8.css": "26453d47ec36430b523ace93361172ee2488aa30"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
